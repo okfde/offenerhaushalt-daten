@@ -1,0 +1,30 @@
+{
+  "name" : "de-bw-freiburg-ergebnishaushalt_ordentliche_ertraegeaufwendungen_ohne_aktivierte_eigenleistunge_doppelhaushalt_20172018",
+  "title" : "Ergebnishaushalt (Ordentliche Erträge/Aufwendungen ohne aktivierte Eigenleistunge) Doppelhaushalt 2017/2018",
+  "notes" : "Ergebnishaushalt (Ordentliche Erträge/Aufwendungen ohne aktivierte Eigenleistunge) Doppelhaushalt 2017/2018",
+  "groups" : [ "verwaltung" ],
+  "tags" : [ "Produkt", "Produktbezeichnung", "Produktgruppe", "Produktgruppenbezeichnung", "Produktbereich", "Produktbereich Bezeichnung", "Dezernat", "Dezernatsbezeichnung", "Teilhaushalte", "Teilhaushalte Bezeichnung", "Amt / Dienststelle", "Amt / Dienststelle Bezeichnung", "Ergebnis 2015 Erträge", "Ergebnis 2015 Aufwendungen", "Ergebnis 2015 Saldo/Zuschussbedarf/Erträge - Aufwendungen", "Ansatz 2016 Erträge", "Ansatz 2016 Aufwendungen", "Ansatz 2016 Saldo/Zuschussbedarf/Erträge - Aufwendungen", "Ansatz 2017 Erträge", "Ansatz 2017 Aufwendungen", "Ansatz Saldo/Zuschussbedarf/Erträge - Aufwendungen", "Ansatz 2018 Erträge", "Ansatz 2018 Aufwendungen", "Ansatz 2018 Saldo/Zuschussbedarf/Erträge - Aufwendungen" ],
+  "url" : "http://www.freiburg.de/fritz",
+  "type" : "datensatz",
+  "resources" : [ {
+    "url" : "http://fritz.freiburg.de:8080/duva2ckan/files/de-bw-freiburg-ergebnishaushalt_ordentliche_ertraegeaufwendungen_ohne_aktivierte_eigenleistunge_doppelhaushalt_20172018/content",
+    "format" : "text/csv",
+    "language" : "de"
+  } ],
+  "license_id" : "dl-de-by-2.0",
+  "extras" : {
+    "contacts" : "[{\"role\":\"veroeffentlichende_stelle\",\"name\":\"Stadt Freiburg\",\"url\":\"http://www.freiburg.de\",\"email\":\"statistik@stadt.freiburg.de\",\"address\":\"Fahnenbergplatz 4, D-79098 Freiburg\"},{\"role\":\"ansprechpartner\",\"name\":\"Sören Werner\",\"email\":\"Soeren.Werner@stadt.freiburg.de\"}]",
+    "dates" : "[{\"role\":\"erstellt\",\"date\":\"2016-12-13\"}]",
+    "subgroups" : [ "Finanzen" ],
+    "metadata_original_portal" : "http://www.freiburg.de/fritz",
+    "metadata_original_id" : "2606",
+    "spatial_text" : "08311000",
+    "geographical_granularity" : "stadt",
+    "temporal_coverage_from" : "2016-12-13",
+    "temporal_coverage_to" : "2016-12-13",
+    "used_datasets" : [ ],
+    "sector" : "oeffentlich",
+    "images" : [ ],
+    "ogd_version" : "v1.0"
+  }
+}

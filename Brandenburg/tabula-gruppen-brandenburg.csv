@@ -1,0 +1,634 @@
+0,Einnahmen aus Steuern und
+"",steuerähnlichen Abgaben
+"",sowie EU-Eigenmittel
+01,Gemeinschaftssteuern und
+"",Gewerbesteuerumlage
+011,Lohnsteuer (Landesanteil)
+012,Veranlagte Einkommen-
+"",steuer (Landesanteil)
+013,Nicht veranlagte Steuern
+"",vom Ertrag (ohne Abgel-
+"",tungsteuer auf Zins- und
+"",Veräußerungserträge)
+014,Körperschaftssteuer (Lan-
+"",desanteil)
+015,Umsatzsteuer (Landesanteil)
+016,Einfuhrumsatzsteuer (Lan-
+"",desanteil)
+017,Gewerbesteuerumlage (Lan-
+"",desanteil)
+018,Abgeltungsteuer auf Zins-
+"",und Veräußerungserträge
+"",Summe der Obergruppe 01
+05/06,Landessteuern
+052,Erbschaftsteuer
+053,Grunderwerbsteuer
+055,Totalisatorsteuer
+056,Andere Rennwettsteuern
+057,Lotteriesteuer
+058,Sportwettensteuer
+059,Feuerschutzsteuer
+"",Summe der Obergruppe 05
+061,Biersteuer
+069,Sonstige Landessteuern
+"",Summe der Obergruppe 06
+093,Abgaben von Spielbanken
+099,Sonstige steuerähnliche
+"",Abgaben
+"",Summe der Obergruppe 09
+"",Summe der Hauptgruppe 0
+1,"Verwaltungseinnahmen, Ein-"
+"",nahmen aus Schulden-
+"",dienst und dgl.
+11,Verwaltungseinnahmen
+111,"Gebühren, sonstige Entgelte"
+112,"Geldstrafen, Geldbußen und"
+"",Zwangsgelder (einschließ-
+"",lich der damit zusammen-
+"",hängenden Gerichts- und
+"",Verwaltungskosten)
+119,Sonstige Verwaltungsein-
+"",nahmen
+"",Summe der Obergruppe 11
+12,Einnahmen aus wirtschaftli-
+"",cher Tätigkeit und aus Ver-
+"",mögen (ohne Zinsen)
+121,Gewinne aus Unternehmen
+"",und Beteiligungen
+122,Konzessionsabgaben
+123,"Einnahmen aus Lotterie,"
+"",Lotto und Toto
+124,Mieten und Pachten
+125,Einnahmen aus der Veräu-
+"",ßerung von beweglichen
+"",Sachen und Diensten aus
+"",wirtschaftlicher Tätigkeit
+"",(Betriebseinnahmen)
+129,Sonstige Einnahmen aus
+"",wirtschaftlicher Tätigkeit und
+"",aus Vermögen (ohne Zin-
+"",sen)
+"",Summe der Obergruppe 12
+13,Einnahmen aus der Veräu-
+"","ßerung von Gegenständen,"
+"",Kapitalrückzahlungen
+131,Einnahmen aus der Veräu-
+"",ßerung von unbeweglichen
+"",Sachen
+132,Einnahmen aus der Veräu-
+"",ßerung von beweglichen
+"",Sachen
+133,Einnahmen aus der Veräu-
+"",ßerung von Beteiligungen
+"",und sonstigem Kapitalver-
+"",mögen
+134,Kapitalrückzahlungen
+"",Summe der Obergruppe 13
+14,Einnahmen aus der Inan-
+"",spruchnahme von Gewähr-
+"",leistungen
+141,Einnahmen aus der Inan-
+"",spruchnahme von Gewähr-
+"",leistungen aus dem Inland
+146,Einnahmen aus der Inan-
+"",spruchnahme von Gewähr-
+"",leistungen aus dem Ausland
+"",Summe der Obergruppe 14
+15,Zinseinnahmen aus dem
+"",öffentlichen Bereich
+152,Zinseinnahmen von Ländern
+153,Zinseinnahmen von
+"",Gemeinden und Gemeinde-
+"",verbänden
+157,Zinseinnahmen von Zweck-
+"",verbänden
+"",Summe der Obergruppe 15
+16,Zinseinnahmen aus sonsti-
+"",gen Bereichen
+161,Zinseinnahmen von öffentli-
+"",chen Unternehmen und Ein-
+"",richtungen
+162,Sonstige Zinseinnahmen
+"",aus dem Inland
+"",Summe der Obergruppe 16
+17,Darlehensrückflüsse aus
+"",dem öffentlichen Bereich
+173,Darlehensrückflüsse von
+"",Gemeinden und Gemeinde-
+"",verbänden
+"",Summe der Obergruppe 17
+18,Darlehensrückflüsse aus
+"",sonstigen Bereichen
+181,Darlehensrückflüsse von
+"",öffentlichen Unternehmen
+"",und Einrichtungen
+182,Sonstige Darlehensrück-
+"",flüsse aus dem Inland
+"",Summe der Obergruppe 18
+"",Summe der Hauptgruppe 1
+2,Einnahmen aus Zuweisun-
+"",gen und Zuschüssen mit
+"",Ausnahme für Investitionen
+21,Allgemeine (nicht zweckge-
+"",bundene) Zuweisungen aus
+"",dem öffentlichen Bereich
+211,Allgemeine Zuweisungen
+"",vom Bund
+212,Allgemeine Zuweisungen
+"",von Ländern
+213,Allgemeine Zuweisungen
+"",von Gemeinden und
+"",Gemeindeverbänden
+"",Summe der Obergruppe 21
+23,Sonstige (zweckgebun-
+"",dene) Zuweisungen aus
+"",dem öffentlichen Bereich
+231,Sonstige Zuweisungen vom
+"",Bund
+232,Sonstige Zuweisungen von
+"",Ländern
+233,Sonstige Zuweisungen von
+"",Gemeinden und Gemeinde-
+"",verbänden
+234,Sonstige Zuweisungen von
+"",Sondervermögen
+235,Sonstige Zuweisungen von
+"",Sozialversicherungsträgern
+"",sowie von der Bundesagen-
+"",tur für Arbeit
+236,Erstattungen von Sozialver-
+"",sicherungsträgern sowie von
+"",der Bundesagentur für Arbeit
+"",Summe der Obergruppe 23
+26,Schuldendiensthilfen und
+"",Erstattungen von Verwal-
+"",tungsausgaben aus sonsti-
+"",gen Bereichen
+261,Schuldendiensthilfen und
+"",Erstattungen von Verwal-
+"",tungsausgaben aus dem
+"",Inland
+"",Summe der Obergruppe 26
+27,Zuschüsse von der EU
+271,Erstattungen von der EU
+272,Sonstige Zuschüsse von der
+"",EU
+"",Summe der Obergruppe 27
+28,Sonstige Zuschüsse aus
+"",sonstigen Bereichen
+281,Sonstige Erstattungen aus
+"",dem Inland
+282,Sonstige Zuschüsse aus
+"",dem Inland
+286,Sonstige Erstattungen aus
+"",dem Ausland (soweit nicht
+"",von der EU)
+287,Sonstige Zuschüsse aus
+"",dem Ausland (soweit nicht
+"",von der EU)
+"",Summe der Obergruppe 28
+298,Vermögensübertragungen
+"",von Sonstigen aus dem
+"","Inland, soweit nicht Investiti-"
+"",onszuschüsse
+"",Summe der Obergruppe 29
+"",Summe der Hauptgruppe 2
+3,Einnahmen aus Schulden-
+"","aufnahmen, aus Zuweisun-"
+"",gen und Zuschüssen für
+"","Investitionen, besondere"
+"",Finanzierungseinnahmen
+32,Schuldenaufnahmen am
+"",Kreditmarkt
+325,Schuldenaufnahmen auf
+"",dem sonstigen inländischen
+"",Kreditmarkt
+"",Summe der Obergruppe 32
+33,Zuweisungen für Investitio-
+"",nen aus dem öffentlichen
+"",Bereich
+331,Zuweisungen für Investitio-
+"",nen vom Bund
+332,Zuweisungen für Investitio-
+"",nen von Ländern
+333,Zuweisungen für Investitio-
+"",nen von Gemeinden und
+"",Gemeindeverbänden
+334,Zuweisungen für Investitio-
+"",nen von Sondervermögen
+337,Zuweisungen für Investitio-
+"",nen von Zweckverbänden
+"",Summe der Obergruppe 33
+34,Beiträge und sonstige
+"",Zuschüsse für Investitionen
+341,Beiträge
+342,Sonstige Zuschüsse für
+"",Investitionen aus dem Inland
+346,Zuschüsse für Investitionen
+"",von der EU
+347,Sonstige Zuschüsse für
+"",Investitionen aus dem Aus-
+"",land (soweit nicht von der
+"",EU)
+"",Summe der Obergruppe 34
+35,"Entnahmen aus Rücklagen,"
+"",Fonds und Stöcken
+356,Entnahmen aus Fonds und
+"",Stöcken
+359,Sonstige Entnahmen aus
+"",Rücklagen
+"",Summe der Obergruppe 35
+37,Globale Mehr- und Minder-
+"",einnahmen
+371,Globale Mehreinnahmen
+"",Summe der Obergruppe 37
+38,Haushaltstechnische Ver-
+"",rechnungen
+381,Verrechnungen zwischen
+"",Kapiteln
+382,Durchlaufende Posten
+389,Sonstige haushaltstechni-
+"",sche Verrechnungen
+4,Personalausgaben
+41,Aufwendungen für Abgeord-
+"",nete und ehrenamtlich
+"",Tätige
+411,Aufwendungen für Abgeord-
+"",nete
+412,Aufwendungen für ehren-
+"",amtlich Tätige
+"",Summe der Obergruppe 41
+42,Bezüge und Nebenleistun-
+"",gen
+421,Bezüge der Ministerpräsi-
+"","dentin, des Ministerpräsi-"
+"","denten, der Ministerinnen"
+"",und Minister
+422,Bezüge und Nebenleistun-
+"","gen der Beamtinnen, Beam-"
+"","ten, Richterinnen und"
+"",Richter
+424,Zuführung an die Versor-
+"",gungsrücklage
+427,"Beschäftigungsentgelte, Ver-"
+"","gütungen, Honorare für"
+"",nebenamtlich und nebenbe-
+"",ruflich Tätige
+428,Entgelte der Arbeitnehmerin-
+"",nen und Arbeitnehmer
+"",(Beschäftigte)
+429,Nicht aufteilbare Personal-
+"",ausgaben
+"",Summe der Obergruppe 42
+43,Versorgungsbezüge und
+"",dergleichen
+431,Versorgungsbezüge der
+"","Ministerpräsidentin, des"
+"","Ministerpräsidenten, der"
+"",Ministerinnen und Minister
+432,Versorgungsbezüge der
+"","Beamtinnen, Beamten, Rich-"
+"",terinnen und Richter
+434,Zuführung an die Versor-
+"",gungsrücklage
+"",Summe der Obergruppe 43
+44,"Beihilfen, Unterstützungen,"
+"",Fürsorgeleistungen und der-
+"",gleichen
+441,"Beihilfen, soweit nicht für"
+"",Versorgungsempfängerin-
+"",nen und Versorgungsemp-
+"",fänger
+443,Fürsorgeleistungen und
+"",Unterstützungen
+446,Beihilfen für Versorgungs-
+"","empfängerinnen, Versor-"
+"",gungsempfänger und
+"",dergleichen
+"",Summe der Obergruppe 44
+45,Sonstige personalbezogene
+"",Ausgaben
+451,Zuschüsse zur Gemein-
+"",schaftsverpflegung und zu
+"",Gemeinschaftsveranstaltun-
+"",gen sowie für soziale Ein-
+"",richtungen
+453,Trennungsgeld oder -ent-
+"","schädigung, Umzugskosten-"
+"",vergütungen
+459,Sonstige personalbezogene
+"",Ausgaben
+"",Summe der Obergruppe 45
+46,Globale Mehr- und Minder-
+"",ausgaben
+461,Globale Mehrausgaben für
+"",Personalausgaben
+462,Globale Minderausgaben für
+"",Personalausgaben
+"",Summe der Obergruppe 46
+"",Summe der Hauptgruppe 4
+5,Sächliche Verwaltungsaus-
+"","gaben, Ausgaben für den"
+"",Schuldendienst
+51,Sächliche Verwaltungsaus-
+"",gaben
+511,Geschäftsbedarf und Kom-
+"","munikation sowie Geräte,"
+"",Ausstattungs- und Ausrü-
+"","stungsgegenstände, son-"
+"",stige
+"",Gebrauchsgegenstände
+514,"Verbrauchsmittel, Haltung"
+"",von Fahrzeugen und dgl.
+517,Bewirtschaftung der Grund-
+"","stücke, Gebäude und"
+"",Räume
+518,Mieten und Pachten
+519,Unterhaltung der Grund-
+"",stücke und baulichen Anla-
+"",gen
+"",Summe der Obergruppe 51
+52,Sächliche Verwaltungsaus-
+"",gaben
+520,Nicht aufteilbare sächliche
+"",Verwaltungsausgaben bei
+"",ÖPP-Projekten
+521,Unterhaltung des sonstigen
+"",unbeweglichen Vermögens
+523,Kunst- und wissenschaftli-
+"",che Sammlungen und Biblio-
+"",theken
+525,"Aus- und Fortbildung, Lehr-"
+"",und Lernmittel
+526,Ausgaben für Sachverstän-
+"","dige, Gerichtskosten und"
+"",ähnliche Ausgaben
+527,Dienstreisen
+529,Verfügungsmittel
+"",Summe der Obergruppe 52
+53,Sächliche Verwaltungsaus-
+"",gaben
+531,"Öffentlichkeitsarbeit, Kosten"
+"",für Veröffentlichungen
+532,sonstige Verwaltungsausga-
+"",ben
+533,sonstige Verwaltungsausga-
+"",ben
+534,Aufwendungen für die Pflege
+"",von Auslandsbeziehungen
+"",und Förderung der politi-
+"",schen Zusammenarbeit
+535,sonstige Verwaltungsausga-
+"",ben
+536,sonstige Verwaltungsausga-
+"",ben
+537,sonstige Verwaltungsausga-
+"",ben
+538,sonstige Verwaltungsausga-
+"",ben
+539,sonstige Verwaltungsausga-
+"",ben
+"",Summe der Obergruppe 53
+54,Sächliche Verwaltungsaus-
+"",gaben
+541,Aufwendungen für Veran-
+"",staltungen
+542,Ausgleichsabgabe für
+"",Schwerbehinderte
+543,sonstige Verwaltungsausga-
+"",ben
+544,Ausgaben für Naturtouris-
+"",mus und Umweltbildung
+545,Kosten für die technische
+"",Sicherung von Wohnungen
+546,sonstige Verwaltungsausga-
+"",ben
+547,Nicht aufteilbare sächliche
+"",Verwaltungsausgaben
+548,Globale Mehrausgaben für
+"",sächliche Verwaltungsaus-
+"",gaben
+549,Globale Minderausgaben für
+"",sächliche Verwaltungsaus-
+"",gaben
+"",Summe der Obergruppe 54
+51-54,Sächliche Verwaltungs-
+"",ausgaben insgesamt
+57,Zinsausgaben an Kredit-
+"",markt
+571,Zinsausgaben an öffentliche
+"",Unternehmen und Einrich-
+"",tungen
+575,Zinsausgaben an sonstigen
+"",inländischen Kreditmarkt
+"",Summe der Obergruppe 57
+595,Tilgungsausgaben an sonsti-
+"",gen inländischen Kredit-
+"",markt
+"",Summe der Obergruppe 59
+"",Summe der Hauptgruppe 5
+6,Ausgaben für Zuweisungen
+"",und Zuschüsse mit Aus-
+"",nahme für Investitionen
+61,Allgemeine (nicht zweckge-
+"",bundene) Zuweisungen an
+"",öffentlichen Bereich
+613,Allgemeine Zuweisungen an
+"",Gemeinden und Gemeinde-
+"",verbände
+"",Summe der Obergruppe 61
+62,Schuldendiensthilfen an
+"",öffentlichen Bereich
+623,Schuldendiensthilfen an
+"",Gemeinden und Gemeinde-
+"",verbände
+624,Schuldendiensthilfen an
+"",Sondervermögen
+627,Schuldendiensthilfen an
+"",Zweckverbände
+"",Summe der Obergruppe 62
+63,Sonstige (zweckgebun-
+"",dene) Zuweisungen an
+"",öffentlichen Bereich
+631,Sonstige Zuweisungen an
+"",Bund
+632,Sonstige Zuweisungen an
+"",Länder
+633,Sonstige Zuweisungen an
+"",Gemeinden und Gemeinde-
+"",verbände
+634,Sonstige Zuweisungen an
+"",Sondervermögen
+636,Sonstige Zuweisungen an
+"",Sozialversicherungsträger
+"",sowie an die Bundesagen-
+"",tur für Arbeit
+637,Sonstige Zuweisungen an
+"",Zweckverbände
+"",Summe der Obergruppe 63
+66,Schuldendiensthilfen an
+"",sonstige Bereiche
+661,Schuldendiensthilfen an
+"",öffentliche Unternehmen
+662,Schuldendiensthilfen an pri-
+"",vate Unternehmen
+663,Schuldendiensthilfen an
+"",Sonstige im Inland
+664,Schuldendiensthilfen an
+"",öffentliche Einrichtungen
+"",Summe der Obergruppe 66
+67,Erstattungen an sonstige
+"",Bereiche
+671,Erstattungen an Inland
+676,Erstattungen an Ausland
+"",Summe der Obergruppe 67
+68,Sonstige Zuschüsse an son-
+"",stige Bereiche
+681,"Renten, Unterstützungen"
+"",und sonstige Geldleistun-
+"",gen an natürliche Personen
+682,Zuschüsse für laufende
+"",Zwecke an öffentliche Unter-
+"",nehmen (soweit nicht
+"",Gruppe 661)
+683,Zuschüsse für laufende
+"",Zwecke an private Unterneh-
+"",men (soweit nicht Gruppe
+"",662)
+684,Zuschüsse für laufende
+"",Zwecke an soziale oder ähn-
+"",liche Einrichtungen (ohne
+"",öffentliche Einrichtungen)
+685,Zuschüsse für laufende
+"",Zwecke an öffentliche Ein-
+"",richtungen
+686,Sonstige Zuschüsse für lau-
+"",fende Zwecke im Inland
+687,Zuschüsse für laufende
+"",Zwecke im Ausland (soweit
+"",nicht Gruppe 688)
+688,Abführungen der Eigenmit-
+"",tel an die EU
+"",Summe der Obergruppe 68
+697,Vermögensübertragungen
+"","an Unternehmen, soweit"
+"",nicht Investitionszuschüsse
+698,Vermögensübertragungen
+"","an Sonstige im Inland,"
+"",soweit nicht für Investitionen
+"",Summe der Obergruppe 69
+"",Summe der Hauptgruppe 6
+7,Baumaßnahmen
+71,"Kleine und große Neu-, Um-"
+"",und Erweiterungsbauten
+711,"Kleine Neu-, Um- und Erwei-"
+"",terungsbauten
+712,"Große Neu-, Um- und Erwei-"
+"",terungsbauten
+713,"Große Neu-, Um- und Erwei-"
+"",terungsbauten
+714,"Große Neu-, Um- und Erwei-"
+"",terungsbauten
+715,"Große Neu-, Um- und Erwei-"
+"",terungsbauten
+"",Summe der Obergruppe 71
+72,"Große Neu-, Um- und Erwei-"
+"",terungsbauten
+721,"Große Neu-, Um- und Erwei-"
+"",terungsbauten
+"",Summe der Obergruppe 72
+"",Summe der Hauptgruppe 7
+8,Sonstige Investitionen und
+"",Investitionsförderungsmaß-
+"",nahmen
+81,Erwerb von beweglichen
+"",Sachen
+811,Erwerb von Fahrzeugen
+812,Erwerb von Geräten und
+"",sonstigen beweglichen
+"",Sachen
+813,Erwerbsanteile im Rahmen
+"",von ÖPP-Projekten bei
+"",beweglichen Sachen
+"",Summe der Obergruppe 81
+82,Erwerb von unbeweglichen
+"",Sachen
+821,Grunderwerb
+823,Erwerbsanteile im Rahmen
+"",von ÖPP-Projekten sowie
+"",Erwerb privat vorfinanzierter
+"",unbeweglicher Sachen
+"",Summe der Obergruppe 82
+83,Erwerb von Beteiligungen
+"",und dergleichen
+831,Erwerb von Beteiligungen
+"",und dergleichen im Inland
+"",Summe der Obergruppe 83
+85,Darlehen an öffentlichen
+"",Bereich
+853,Darlehen an Gemeinden und
+"",Gemeindeverbände
+"",Summe der Obergruppe 85
+86,Darlehen an sonstige Berei-
+"",che
+861,Darlehen an öffentliche
+"",Unternehmen und Einrich-
+"",tungen
+862,Darlehen an private Unter-
+"",nehmen
+863,Darlehen an Sonstige im
+"",Inland
+"",Summe der Obergruppe 86
+87,Inanspruchnahme aus
+"",Gewährleistungen
+871,Inanspruchnahme aus
+"",Gewährleistungen
+"",Summe der Obergruppe 87
+88,Zuweisungen für Investitio-
+"",nen an öffentlichen Bereich
+882,Zuweisungen für Investitio-
+"",nen an Länder
+883,Zuweisungen für Investitio-
+"",nen an Gemeinden und
+"",Gemeindeverbände
+884,Zuweisungen für Investitio-
+"",nen an Sondervermögen
+887,Zuweisungen für Investitio-
+"",nen an Zweckverbände
+"",Summe der Obergruppe 88
+891,Zuschüsse für Investitionen
+"",an öffentliche Unternehmen
+892,Zuschüsse für Investitionen
+"",an private Unternehmen
+893,Zuschüsse für Investitionen
+"",an Sonstige im Inland
+894,Zuschüsse für Investitionen
+"",an öffentliche Einrichtungen
+"",Summe der Obergruppe 89
+"",Summe der Hauptgruppe 8
+9,Besondere Finanzierungs-
+"",ausgaben
+91,"Zuführungen an Rücklagen,"
+"",Fonds und Stöcke
+919,Sonstige Zuführungen an
+"",Rücklagen
+"",Summe der Obergruppe 91
+96,Ausgaben zur Deckung von
+"",Fehlbeträgen aus Vorjahren
+961,Ausgaben zur Deckung von
+"",Fehlbeträgen aus Vorjahren
+"",Summe der Obergruppe 96
+97,Globale Mehr- und Minder-
+"",ausgaben
+972,Globale Minderausgaben
+"",Summe der Obergruppe 97
+98,Haushaltstechnische Ver-
+"",rechnungen
+981,Verrechnungen zwischen
+"",Kapiteln
+982,Durchlaufende Posten
+989,Sonstige haushaltstechni-
+"",sche Verrechnungen
+"",Summe der Obergruppe 98
+"",Summe der Hauptgruppe 9
+4-9,Gesamtausgaben:

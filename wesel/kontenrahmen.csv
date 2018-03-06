@@ -1,0 +1,50 @@
+Konto beginnend mit;Betrag von ;Betrag bis;ID;Bezeichnung;Erg/Fin;E/A
+40;-999.999.999,99;999.999.999,99;E1;Steuern und ähnliche Abgaben;Ergebnisplan;Erträge
+41;-999.999.999,99;999.999.999,99;E2;Zuwendungen und allgemeine Umlagen;Ergebnisplan;Erträge
+42;-999.999.999,99;999.999.999,99;E3;Sonstige Transfererträge;Ergebnisplan;Erträge
+43;-999.999.999,99;999.999.999,99;E4;Öffentlich-rechtliche Leistungsentgelte;Ergebnisplan;Erträge
+441;-999.999.999,99;999.999.999,99;E5;Privatrechtliche Leistungsentgelte;Ergebnisplan;Erträge
+442;-999.999.999,99;999.999.999,99;E5;Privatrechtliche Leistungsentgelte;Ergebnisplan;Erträge
+446;-999.999.999,99;999.999.999,99;E5;Privatrechtliche Leistungsentgelte;Ergebnisplan;Erträge
+448;-999.999.999,99;999.999.999,99;E5;Privatrechtliche Leistungsentgelte;Ergebnisplan;Erträge
+448;-999.999.999,99;999.999.999,99;E6;Kostenerstattungen, -umlagen;Ergebnisplan;Erträge
+449;-999.999.999,99;999.999.999,99;E6;Kostenerstattungen, -umlagen;Ergebnisplan;Erträge
+45;-999.999.999,99;999.999.999,99;E7;Sonstige ordentliche Erträge;Ergebnisplan;Erträge
+46;-999.999.999,99;999.999.999,99;E16;Finanzerträge;Ergebnisplan;Erträge
+471;-999.999.999,99;999.999.999,99;E8;Aktivierte Eigenleistungen;Ergebnisplan;Erträge
+472;-999.999.999,99;999.999.999,99;E9;Bestandsveränderungen;Ergebnisplan;Erträge
+48;-999.999.999,99;999.999.999,99;E20;Erträge aus internen Verrechnungen;Ergebnisplan;Erträge
+49;-999.999.999,99;999.999.999,99;E18;Außerordentliche Erträge;Ergebnisplan;Erträge
+50;-999.999.999,99;999.999.999,99;E10;Personalaufwendungen;Ergebnisplan;Aufwendungen
+51;-999.999.999,99;999.999.999,99;E11;Versorgungsaufwendungen;Ergebnisplan;Aufwendungen
+52;-999.999.999,99;999.999.999,99;E12;Aufwendungen für Sach- und Dienstleistungen;Ergebnisplan;Aufwendungen
+53;-999.999.999,99;999.999.999,99;E14;Transferaufwendungen;Ergebnisplan;Aufwendungen
+54;-999.999.999,99;999.999.999,99;E15;Sonstige ordentliche Aufwendungen;Ergebnisplan;Aufwendungen
+56;-999.999.999,99;999.999.999,99;E17;Zinsen u. sonstige Finanzaufwendungen;Ergebnisplan;Aufwendungen
+57;-999.999.999,99;999.999.999,99;E13;Bilanzielle Abschreibungen;Ergebnisplan;Aufwendungen
+58;-999.999.999,99;999.999.999,99;E21;Aufwendungen aus internen Verrechnungen;Ergebnisplan;Aufwendungen
+59;-999.999.999,99;999.999.999,99;E17;Außerordentliche Aufwendungen;Ergebnisplan;Aufwendungen
+681;-999.999.999,99;999.999.999,99;F15;Einzahlungen aus Zuwendungen für Investitionsmaßnahmen;Finanzplan (investiv);inv. Einzahlungen
+682;-999.999.999,99;999.999.999,99;F16;Einzahlungen aus der Veräußerung von Sachanlagen;Finanzplan (investiv);inv. Einzahlungen
+683;-999.999.999,99;999.999.999,99;F16;Einzahlungen aus der Veräußerung von Sachanlagen;Finanzplan (investiv);inv. Einzahlungen
+684;-999.999.999,99;999.999.999,99;F17;Einzahlungen aus der Veräußerung von Finanzanlagen;Finanzplan (investiv);inv. Einzahlungen
+685;-999.999.999,99;999.999.999,99;F19;Sonstige Investitionseinzahlungen;Finanzplan (investiv);inv. Einzahlungen
+686;-999.999.999,99;999.999.999,99;F19;Sonstige Investitionseinzahlungen;Finanzplan (investiv);inv. Einzahlungen
+688;-999.999.999,99;999.999.999,99;F18;Einzahlungen aus Beiträgen u.ä. Entgelten;Finanzplan (investiv);inv. Einzahlungen
+689;-999.999.999,99;999.999.999,99;F19;Sonstige Investitionseinzahlungen;Finanzplan (investiv);inv. Einzahlungen
+781;-999.999.999,99;999.999.999,99;F24;Auszahlungen von aktivierbaren Zuwendungen;Finanzplan (investiv);inv. Auszahlungen
+782;-999.999.999,99;999.999.999,99;F20;Auszahlungen für den Erwerb von Grundstücken und Gebäuden;Finanzplan (investiv);inv. Auszahlungen
+783;-999.999.999,99;999.999.999,99;F22;Auszahlungen für den Erwerb von beweglichem Anlagevermögen;Finanzplan (investiv);inv. Auszahlungen
+784;-999.999.999,99;999.999.999,99;F23;Auszahlungen für den Erwerb von Finanzanlagen;Finanzplan (investiv);inv. Auszahlungen
+785;-999.999.999,99;999.999.999,99;F21;Auszahlungen für Baumaßnahmen;Finanzplan (investiv);inv. Auszahlungen
+786;-999.999.999,99;999.999.999,99;F25;sonstige Investitionsauszahlungen;Finanzplan (investiv);inv. Auszahlungen
+789;-999.999.999,99;999.999.999,99;F25;sonstige Investitionsauszahlungen;Finanzplan (investiv);inv. Auszahlungen
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
